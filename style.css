@@ -1,15 +1,57 @@
-
+<html>
+<style>
 body {
-background-color:skyblue;
+font-family: 'Arial', serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0
+    padding: 0;
 }
 
-h1 {
-color: black;
-text-align: center;
+header {
+  background-color:#40E0D0
+  color:aquamarine;
+    text-align: center;
+    padding: 20 px;
 }
-h2 {
-text-align: center;
+h1,h2 {
+    font-family: 'Georgia', serif;
+    text-align: center;
 }
+h3 {
+  font-family: 'Georgia', serif;
+    text-align: center;
+    color: #ffffff;
+}
+
+nav {
+   backround-color:#40E0d0;
+   color: aquamarine;
+    padding: 10 px;
+}
+
 ul {
-color:black;
+ list-style-type: none;
+    padding:0;
+    text-align: center;
 }
+li {
+display: inline;
+margin: 0 10 px;
+}
+
+<title> Centered Image Example </title>
+<style>
+.image-container {
+    text-align: center;
+}
+</style>
+<body>
+ <h1> Centered Image </h1>
+ <div class = "image-container">
+    <img src= "IMG_1406.jpg" alt= "Brooklyn the dog walking on the beach">
+</div>
+</body>
+</style>
+
+</html>
