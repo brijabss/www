@@ -7,12 +7,25 @@ font-family: 'Arial', serif;
     margin: 0
     padding: 0;
 }
+a { 
+color:black;
+text-decoration: none;
+}
+a:hover{
+background-color: floralwhite;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: #A0134B;
+    text-decoration: underline;
+    font-weight: bold;
+}
 
+}
 header {
   background-color:#40E0D0
   color:aquamarine;
     text-align: center;
-    padding: 20 px;
+    padding: 20px;
 }
 h1,h2 {
     font-family: 'Georgia', serif;
@@ -37,7 +50,7 @@ ul {
 }
 li {
 display: inline;
-margin: 0 10 px;
+margin: 0 10px;
 }
 
 <title> Centered Image Example </title>
