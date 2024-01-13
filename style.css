@@ -23,7 +23,7 @@ background-color: floralwhite;
 }
 header {
   background-color:#40E0D0
-  color:aquamarine;
+  color:black;
     text-align: center;
     padding: 20px;
 }
@@ -34,7 +34,7 @@ h1,h2 {
 h3 {
   font-family: 'Georgia', serif;
     text-align: center;
-    color: #black;
+    color:black;
 }
 
 nav {
